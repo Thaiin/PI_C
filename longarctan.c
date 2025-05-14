@@ -145,10 +145,10 @@ int main(int argc, char **argv){
 }
 
 /*
-Nagano Taro@DESKTOP-S6M9VUP ~/c/algorithm/MultiplierLength/arctan
+[---]@[---] ~/c/algorithm/MultiplierLength/arctan
 $ gcc -Wall -o longarctan longarctan.c
 
-Nagano Taro@DESKTOP-S6M9VUP ~/c/algorithm/MultiplierLength/arctan
+[---]@[---] ~/c/algorithm/MultiplierLength/arctan
 $ ./longarctan.exe
 
  ------ 1周目 ------
